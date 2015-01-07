@@ -1,2 +1,2 @@
 # php-view-class
-A very simple but flexible view rendering engine for PHP.
+A very simple but flexible view rendering engine for PHP. The folder "example" contains a simple example of how the class works. No special configurations are needed for the class to work.
